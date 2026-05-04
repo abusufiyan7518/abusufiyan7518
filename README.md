@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @abusufiyan Java fresher.
-- Passionate about building robust applications with Java and Spring Boot
+- 👋 Hi, I’m @abusufiyan Python fresher.
+- Passionate about building applications with Python(Django)
 - Eager to contribute to innovative projects and grow in a dynamic environment.
 - Open to learning new technologies and enhancing my skills.
 
