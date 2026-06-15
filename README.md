@@ -72,3 +72,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abusufiyan7518&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
