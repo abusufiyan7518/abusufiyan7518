@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ABUSUFIYAN&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Python%20Back-End%20Developer%20%7C%20Frappe%20%26%20Django%20%7C%20ERP%20Specialist&descAlignY=55&descSize=16"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&text=ABUSUFIYAN&fontSize=75&fontColor=1F2937&animation=fadeIn&fontAlignY=40&desc=Python%20Backend%20Developer%20%7C%20Django%20%7C%20Frappe%20ERP%20Developer&descAlignY=60&descSize=18" />
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0089FF&center=true&vCenter=true&width=600&lines=Python+Back-End+Developer+%F0%9F%90%8D;Frappe+%26+Django+Specialist+%F0%9F%94%A7;ERP+%26+REST+API+Developer+%F0%9F%9A%80;MCA+Fresher+%7C+Open+To+Work+%F0%9F%92%BC;Building+Real-World+Business+Apps+%F0%9F%8C%90" alt="Typing SVG"/>
-</div>
+</p>
 
 <br/>
 
@@ -172,3 +172,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
+
+<p align="center">
+  <i>Building software that solves real-world business problems.</i>
+</p>
