@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0089FF&center=true&vCenter=true&random=false&width=600&lines=Python+Back-End+Developer+%F0%9F%90%8D;Frappe+%26+Django+Specialist+%F0%9F%94%A7;ERP+%26+REST+API+Developer+%F0%9F%9A%80;MCA+Fresher+%7C+Open+To+Work+%F0%9F%92%BC;Building+Real-World+Business+Apps+%F0%9F%8C%90" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0089FF&center=true&vCenter=true&width=600&lines=Python+Back-End+Developer+%F0%9F%90%8D;Frappe+%26+Django+Specialist+%F0%9F%94%A7;ERP+%26+REST+API+Developer+%F0%9F%9A%80;MCA+Fresher+%7C+Open+To+Work+%F0%9F%92%BC;Building+Real-World+Business+Apps+%F0%9F%8C%90" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -21,7 +19,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://hostelx.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Live_Project-00B37E?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Live_Project-00B37E?style=for-the-badge&logo=render&logoColor=white"/>
   </a>
 </div>
 
@@ -34,9 +32,9 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
 ## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🎓 Pursuing **MCA** — Chhatrapati Shivaji Maharaj University, Panvel (2024–2026)
 - 💼 Actively seeking **Junior Back-End Developer / Python Developer** roles
@@ -58,7 +56,7 @@
 
 | 🏷️ | Project | Description | Tech | Demo |
 |---|---|---|---|---|
-| 🏨 | **[HostelX](https://hostelx.onrender.com)** | ERP-inspired hostel management — RBAC, complaint workflow, leave & visitor management | `Python` `Django` `SQLite` | [🔗 Live](https://hostelx.onrender.com) |
+| 🏨 | **HostelX** | ERP-inspired hostel management — RBAC, complaint workflow, leave & visitor management | `Python` `Django` `SQLite` | [🔗 Live](https://hostelx.onrender.com) |
 | 🗑️ | **SmartBin** | 3-role garbage complaint system (User→Admin→Staff) with real-time tracking | `Python` `Django` `SQLite` | — |
 | 📋 | **ERP Task Manager** | Role-based task lifecycle (Admin/User) with analytics dashboard | `Python` `Django` `MySQL` | — |
 | ❤️ | **Heart Disease Prediction** | ML model predicting heart disease risk from medical parameters | `Python` `Pandas` `Scikit-Learn` | — |
@@ -121,7 +119,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=abusufiyan7518&theme=tokyonight&hide_border=false&border_radius=10" width="70%"/>
+  <img src="https://streak-stats.demolab.com/?user=abusufiyan7518&theme=tokyonight&border_radius=10" width="70%"/>
 </div>
 
 ---
@@ -166,7 +164,7 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 </div>
 
 <br/>
