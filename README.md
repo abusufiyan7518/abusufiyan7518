@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/abu-sufiyan-822b9827b" target="_blank">
+  <a href="https://www.linkedin.com/in/abusufiyan-822b9827b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:abusufiyantechsak@gmail.com">
