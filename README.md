@@ -25,10 +25,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abusufiyan7518&label=Profile+Views&color=0089FF&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/abusufiyan7518?label=Followers&style=for-the-badge&color=0089FF"/>
-</div>
 
 ---
 
@@ -58,7 +54,6 @@
 |---|---|---|---|---|
 | 🏨 | **HostelX** | ERP-inspired hostel management — RBAC, complaint workflow, leave & visitor management | `Python` `Django` `SQLite` | [🔗 Live](https://hostelx.onrender.com) |
 | 🗑️ | **SmartBin** | 3-role garbage complaint system (User→Admin→Staff) with real-time tracking | `Python` `Django` `SQLite` | — |
-| 📋 | **ERP Task Manager** | Role-based task lifecycle (Admin/User) with analytics dashboard | `Python` `Django` `MySQL` | — |
 | ❤️ | **Heart Disease Prediction** | ML model predicting heart disease risk from medical parameters | `Python` `Pandas` `Scikit-Learn` | — |
 | 🏠 | **House Price Prediction** | ML model predicting property prices from housing features | `Python` `Pandas` `Scikit-Learn` | — |
 | 🌐 | **React Portfolio** | Responsive personal portfolio website | `React.js` | — |
@@ -76,11 +71,9 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🎨 Frontend
@@ -100,9 +93,7 @@
 ### 🔧 Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
