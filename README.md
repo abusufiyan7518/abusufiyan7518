@@ -53,7 +53,7 @@
 |---|---|---|---|---|
 | 🏨 | **HostelX** | ERP-inspired hostel management — RBAC, complaint workflow, leave & visitor management | `Python` `Django` `SQLite` | [🔗 Live](https://hostelx.onrender.com) |
 | 🗑️ | **SmartBin** | 3-role garbage complaint system (User→Admin→Staff) with real-time tracking | `Python` `Django` `SQLite` | — |
-| 🔗 | **CodeAlpha URL Shortener** | URL shortening platform with QR code generation, click analytics, dashboard and URL history | `Python` `Flask` `SQLite` `Bootstrap` | — |
+| 🔗 | **URL Shortener** | URL shortening platform with QR code generation, click analytics, dashboard and URL history | `Python` `Flask` `SQLite` `Bootstrap` | — |
 | ❤️ | **Heart Disease Prediction** | ML model predicting heart disease risk from medical parameters | `Python` `Pandas` `Scikit-Learn` | — |
 | 🏠 | **House Price Prediction** | ML model predicting property prices from housing features | `Python` `Pandas` `Scikit-Learn` | — |
 | 🌐 | **React Portfolio** | Responsive personal portfolio website | `React.js` | — |
