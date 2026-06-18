@@ -53,6 +53,7 @@
 |---|---|---|---|---|
 | 🏨 | **HostelX** | ERP-inspired hostel management — RBAC, complaint workflow, leave & visitor management | `Python` `Django` `SQLite` | [🔗 Live](https://hostelx.onrender.com) |
 | 🗑️ | **SmartBin** | 3-role garbage complaint system (User→Admin→Staff) with real-time tracking | `Python` `Django` `SQLite` | — |
+| 🔗 | **CodeAlpha URL Shortener** | URL shortening platform with QR code generation, click analytics, dashboard and URL history | `Python` `Flask` `SQLite` `Bootstrap` | — |
 | ❤️ | **Heart Disease Prediction** | ML model predicting heart disease risk from medical parameters | `Python` `Pandas` `Scikit-Learn` | — |
 | 🏠 | **House Price Prediction** | ML model predicting property prices from housing features | `Python` `Pandas` `Scikit-Learn` | — |
 | 🌐 | **React Portfolio** | Responsive personal portfolio website | `React.js` | — |
@@ -65,11 +66,11 @@
 
 <div align="center">
 
-### ⚙️ Backend & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
