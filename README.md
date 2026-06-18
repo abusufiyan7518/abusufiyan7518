@@ -109,18 +109,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=abusufiyan7518&theme=tokyonight&border_radius=10" width="70%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abusufiyan7518&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1"/>
-</div>
-
 ---
 
 ## 🏅 Certifications
@@ -144,13 +132,6 @@
   <img src="https://raw.githubusercontent.com/abusufiyan7518/abusufiyan7518/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abusufiyan7518&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</div>
 
 ---
 
