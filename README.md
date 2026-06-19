@@ -31,7 +31,7 @@
 
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🎓 Pursuing **MCA** — Chhatrapati Shivaji Maharaj University, Panvel (2024–2026)
+- 🎓  **MCA Fresher** — Chhatrapati Shivaji Maharaj University, Panvel (2024–2026)
 - 💼 Actively seeking **Junior Back-End Developer / Python Developer** roles
 - 🔧 Specialized in **Frappe Framework, Django, REST APIs & ERP Systems**
 - 🚀 Built & deployed **HostelX** — live ERP hostel management system
