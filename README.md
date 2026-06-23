@@ -103,7 +103,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abusufiyan7518&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusufiyan7518&layout=compact&theme=tokyonight&border_radius=10" width="40%"/>
 </div>
 
