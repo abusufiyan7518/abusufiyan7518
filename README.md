@@ -139,5 +139,5 @@
 </div>
 
 <p align="center">
-  <i>Building software that solves real-world business problems.</i>
+  <i>Building software that solves real-world business problems. </i>
 </p>
