@@ -82,136 +82,28 @@ I enjoy solving practical business problems using clean architecture, REST APIs,
 
 # 🚀 Featured Projects
 
-<table>
+<div align="center">
 
-<tr>
+| Project | Description | Tech Stack | Links |
+|:--|:--|:--|:--:|
+| 🤖 **RAG Enterprise Knowledge Assistant** | Enterprise AI-powered document search using Retrieval-Augmented Generation with semantic search and source-backed responses. | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?logo=google&logoColor=white) | <a href="https://rag-enterprise-knowledge-assistant.vercel.app"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge"/></a><br><a href="https://github.com/abusufiyan7518/rag-enterprise-knowledge-assistant"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> |
+| 🏨 **HostelX** | ERP-inspired Hostel Management System with complaints, leave management, visitors and role-based authentication. | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white) | <a href="https://hostelx.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge"/></a><br><a href="https://github.com/abusufiyan7518/HostelX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> |
+| 🔗 **URL Shortener** | URL shortening platform with QR generation, click analytics, dashboard and URL history. | ![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) | <a href="https://urlshortener-frbc.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge"/></a><br><a href="https://github.com/abusufiyan7518"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> |
+| 🗑 **SmartBin** | Smart waste management platform with Admin, User and Staff workflow. | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) | <a href="https://github.com/abusufiyan7518"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> |
+| ❤️ **Heart Disease Prediction** | Machine Learning application predicting heart disease risk using healthcare data. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white) | <a href="https://heartdiseaseprediction-9jhy9az7op6p4kozvgsd2n.streamlit.app/"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge"/></a><br><a href="https://github.com/abusufiyan7518"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> |
+| 🏠 **House Price Prediction** | ML model for predicting house prices using regression algorithms. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) | <a href="https://housepredictionappapp-pb5lnuuc6sujjkamqvpttq.streamlit.app/"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge"/></a><br><a href="https://github.com/abusufiyan7518"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> |
 
-<td width="50%">
-
-## 🤖 RAG Enterprise Knowledge Assistant
-
-Enterprise-grade AI document assistant built using Retrieval-Augmented Generation.
-
-### Highlights
-
-- JWT Authentication
-- PDF & DOCX Processing
-- ChromaDB Vector Search
-- Semantic Search
-- Google Gemini AI
-- PostgreSQL Database
-- React + FastAPI
-- Source-backed AI Responses
-
-**Tech Stack**
-
-FastAPI • React • PostgreSQL • ChromaDB • Gemini • JWT
-
-</td>
-
-<td>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="120"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🏨 HostelX
-
-A complete hostel management platform with role-based authentication, complaint workflow, leave management, visitor records and student administration.
-
-**Tech Stack**
-
-Django • SQLite • Bootstrap • JavaScript
-
-</td>
-
-<td>
-
-🏢 ERP Inspired Project
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🔗 URL Shortener
-
-Production-ready URL shortening platform supporting QR code generation, analytics, dashboard and history management.
-
-**Tech Stack**
-
-Flask • SQLite • Bootstrap
-
-</td>
-
-<td>
-
-📈 Analytics Dashboard
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🗑 SmartBin
-
-Garbage complaint management system featuring User, Admin and Staff workflows.
-
-**Tech Stack**
-
-Django • SQLite
-
-</td>
-
-<td>
-
-♻️ Smart City Solution
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## ❤️ Heart Disease Prediction
-
-Machine Learning application for heart disease prediction using healthcare datasets.
-
-</td>
-
-<td>
-
-Scikit-Learn • Pandas
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
-## 🚀 Languages
+## 🚀 Programming Languages
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" height="55"/>
 
 </p>
 
@@ -219,11 +111,19 @@ Scikit-Learn • Pandas
 
 ## ⚙ Backend Development
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi"/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask" height="55"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Frappe_Framework-0089FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQLAlchemy-E34F26?style=for-the-badge"/>
 
 </p>
 
@@ -231,54 +131,69 @@ Scikit-Learn • Pandas
 
 ## 🎨 Frontend
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
-
-</p>
-
----
-
-## 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,javascript" height="55"/>
 
 </p>
 
 ---
 
-## 🤖 AI / Machine Learning
+## 🗄 Databases
 
-<p>
+<p align="center">
 
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="55"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Sentence_Transformers-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neon_PostgreSQL-00E599?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🤖 Artificial Intelligence
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-7E57C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Semantic_Search-00ACC1?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🛠 Tools
+## ☁ Deployment & Tools
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="55"/>
 
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<br><br>
 
 <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
 
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge"/>
+
 </p>
 
 ---
-
 # 📊 GitHub Analytics
 
 <div align="center">
