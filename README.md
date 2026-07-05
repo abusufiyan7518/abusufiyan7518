@@ -54,9 +54,7 @@ I enjoy solving practical business problems using clean architecture, REST APIs,
 
 🌎 Passionate about solving real business problems
 
-📫 Email:
-
-**abusufiyantechsak@gmail.com**
+📫 Email: **abusufiyantechsak@gmail.com**
 
 <br clear="right"/>
 
