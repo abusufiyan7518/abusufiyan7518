@@ -115,7 +115,7 @@ I enjoy solving practical business problems using clean architecture, REST APIs,
 
 <img src="https://skillicons.dev/icons?i=fastapi,django,flask" height="55"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Frappe_Framework-0089FF?style=for-the-badge"/>
 
@@ -145,7 +145,7 @@ I enjoy solving practical business problems using clean architecture, REST APIs,
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="55"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge"/>
 
@@ -183,7 +183,7 @@ I enjoy solving practical business problems using clean architecture, REST APIs,
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="55"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
 
@@ -198,31 +198,12 @@ I enjoy solving practical business problems using clean architecture, REST APIs,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abusufiyan7518&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abusufiyan7518&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=abusufiyan7518&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abusufiyan7518&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
@@ -231,36 +212,6 @@ I enjoy solving practical business problems using clean architecture, REST APIs,
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abusufiyan7518&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
-
-# 🎯 Currently Working On
-
-```text
-✅ FastAPI Backend Development
-
-✅ Frappe Framework & ERPNext
-
-✅ Enterprise AI Applications
-
-✅ Retrieval-Augmented Generation (RAG)
-
-✅ ChromaDB & Vector Databases
-
-✅ Google Gemini API
-
-✅ REST API Design
-
-✅ PostgreSQL Database Design
-
-✅ Authentication & Authorization
-
-✅ System Design Fundamentals
-
-✅ Data Structures & Algorithms
-
-✅ LeetCode Problem Solving
-```
 
 ---
 
@@ -340,21 +291,6 @@ I enjoy solving practical business problems using clean architecture, REST APIs,
 
 ---
 
-# 🌟 Open Source Contributions
-
-I enjoy learning from open source projects and continuously improving my development skills by building real-world applications.
-
-Current areas of interest:
-
-- 🚀 FastAPI Ecosystem
-- 🏢 ERPNext & Frappe Framework
-- 🤖 Artificial Intelligence
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 📦 REST API Development
-- 🐍 Python Open Source Libraries
-
----
-
 # 📂 Featured Repositories
 
 | ⭐ Project | Description | Tech |
@@ -374,38 +310,6 @@ Current areas of interest:
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Become a Professional Python Backend Developer
-- ✅ Master FastAPI
-- ✅ Master Frappe Framework & ERPNext
-- ✅ Learn Docker & Kubernetes
-- ✅ Learn AWS Cloud
-- ✅ Build Production AI Applications
-- ✅ Contribute to Open Source
-- ✅ Crack Product-Based Company Interviews
-
----
-
-# 📈 Coding Activity
-
-```text
-Python            ████████████████████ 95%
-
-FastAPI           █████████████████░░ 90%
-
-Django            ████████████████░░░ 85%
-
-Frappe            ██████████████░░░░░ 80%
-
-React             ████████████░░░░░░░ 70%
-
-SQL               ███████████████░░░░ 82%
-
-Machine Learning  ███████████░░░░░░░░ 65%
-```
-
----
 
 # 🐍 Contribution Snake
 
@@ -414,17 +318,6 @@ Machine Learning  ███████████░░░░░░░░ 65%
 <img src="https://raw.githubusercontent.com/abusufiyan7518/abusufiyan7518/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
----
-
-# ☕ Fun Facts
-
-- 🐍 Python is my primary programming language.
-- 🤖 I enjoy building AI-powered applications.
-- 📚 I learn by building real-world projects.
-- 🌍 I like solving practical business problems.
-- 🚀 Always exploring new backend technologies.
-- 💻 Clean code is my favorite design pattern.
 
 ---
 
@@ -465,20 +358,6 @@ If you enjoy my projects or find them helpful,
 ⭐ Consider starring my repositories.
 
 It motivates me to continue building better open-source software.
-
----
-
-# 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=abusufiyan7518&style=for-the-badge&color=0A84FF"/>
-
-<img src="https://img.shields.io/github/followers/abusufiyan7518?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/abusufiyan7518?affiliations=OWNER&style=for-the-badge"/>
-
-</div>
 
 ---
 
