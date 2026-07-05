@@ -1,25 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=280&text=ABUSUFIYAN&fontSize=74&fontColor=1F2937&animation=fadeIn&fontAlignY=40&desc=Python%20Backend%20Developer%20%7C%20FastAPI%20%7C%20Django%20%7C%20Frappe%20ERP&descAlignY=63&descSize=18"/>
 </p>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&color=0A84FF&lines=Python+Backend+Developer+%F0%9F%90%8D;FastAPI+%7C+Django+%7C+Frappe+Developer+%F0%9F%9A%80;Building+AI-Powered+Business+Applications;REST+API+%7C+PostgreSQL+%7C+React;Open+to+Full-Time+Opportunities+%F0%9F%92%BC"/>
-</p>
-
-<p align="center">
-
-<a href="https://github.com/abusufiyan7518">
-<img src="https://img.shields.io/github/followers/abusufiyan7518?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/abusufiyan7518?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-20+-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://komarev.com/ghpvc/?username=abusufiyan7518">
-<img src="https://komarev.com/ghpvc/?username=abusufiyan7518&style=for-the-badge&color=blue"/>
-</a>
-
 </p>
 
 ---
@@ -38,7 +21,7 @@ I enjoy solving practical business problems using clean architecture, REST APIs,
 
 <img align="right" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-🎓 MCA Student (2024–2026)
+🎓 MCA Fresher
 
 💼 Open to Full-Time Python Backend Developer Roles
 
@@ -403,18 +386,16 @@ I'd love to collaborate.
 
 ---
 
-> **"Good software isn't just about writing code. It's about solving real-world problems with clean, scalable and maintainable solutions."**
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F46E5,100:2563EB&section=footer"/>
 
 ---
 
-<div align="center">
-
-## 🚀 "Learning Never Stops."
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+%F0%9F%92%99;Always+Building.+Always+Learning.;See+you+in+the+next+project!"/>
+> **"Good software isn't just about writing code. It's about solving real-world problems with clean, scalable and maintainable solutions."**
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F46E5,100:2563EB&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+%F0%9F%92%99;Always+Building.+Always+Learning.;See+you+in+the+next+project!"/>
 
 </div>
