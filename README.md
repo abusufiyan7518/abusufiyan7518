@@ -88,10 +88,10 @@ I enjoy solving practical business problems using clean architecture, REST APIs,
 |:--|:--|:--|:--:|
 | 🤖 **RAG Enterprise Knowledge Assistant** | Enterprise AI-powered document search using Retrieval-Augmented Generation with semantic search and source-backed responses. | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?logo=google&logoColor=white) | <a href="https://rag-enterprise-knowledge-assistant.vercel.app"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge"/></a><br><a href="https://github.com/abusufiyan7518/rag-enterprise-knowledge-assistant"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> |
 | 🏨 **HostelX** | ERP-inspired Hostel Management System with complaints, leave management, visitors and role-based authentication. | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white) | <a href="https://hostelx.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge"/></a><br><a href="https://github.com/abusufiyan7518/HostelX"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> |
-| 🔗 **URL Shortener** | URL shortening platform with QR generation, click analytics, dashboard and URL history. | ![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) | <a href="https://urlshortener-frbc.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge"/></a><br><a href="https://github.com/abusufiyan7518"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> |
-| 🗑 **SmartBin** | Smart waste management platform with Admin, User and Staff workflow. | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) | <a href="https://github.com/abusufiyan7518"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> |
-| ❤️ **Heart Disease Prediction** | Machine Learning application predicting heart disease risk using healthcare data. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white) | <a href="https://heartdiseaseprediction-9jhy9az7op6p4kozvgsd2n.streamlit.app/"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge"/></a><br><a href="https://github.com/abusufiyan7518"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> |
-| 🏠 **House Price Prediction** | ML model for predicting house prices using regression algorithms. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) | <a href="https://housepredictionappapp-pb5lnuuc6sujjkamqvpttq.streamlit.app/"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge"/></a><br><a href="https://github.com/abusufiyan7518"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> |
+| 🔗 **URL Shortener** | URL shortening platform with QR generation, click analytics, dashboard and URL history. | ![Flask](https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) | <a href="https://urlshortener-frbc.onrender.com"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge"/></a><br><a href="https://github.com/abusufiyan7518/URLShortener"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> |
+| 🗑 **SmartBin** | Smart waste management platform with Admin, User and Staff workflow. | ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) | <a href="https://github.com/abusufiyan7518/SmartBin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> |
+| ❤️ **Heart Disease Prediction** | Machine Learning application predicting heart disease risk using healthcare data. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white) | <a href="https://heartdiseaseprediction-9jhy9az7op6p4kozvgsd2n.streamlit.app/"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge"/></a><br><a href="https://github.com/abusufiyan7518/HeartDiseasePrediction"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> |
+| 🏠 **House Price Prediction** | ML model for predicting house prices using regression algorithms. | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) | <a href="https://housepredictionappapp-pb5lnuuc6sujjkamqvpttq.streamlit.app/"><img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge"/></a><br><a href="https://github.com/abusufiyan7518/House_Prediction_StreamlitApp"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a> |
 
 </div>
 
@@ -304,28 +304,11 @@ I enjoy solving practical business problems using clean architecture, REST APIs,
 
 ---
 
-# 💡 Developer Philosophy
-
-> **"Good software isn't just about writing code. It's about solving real-world problems with clean, scalable and maintainable solutions."**
-
----
-
-
 # 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/abusufiyan7518/abusufiyan7518/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 💬 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -348,16 +331,6 @@ I enjoy solving practical business problems using clean architecture, REST APIs,
 </a>
 
 </div>
-
----
-
-# ❤️ Support My Work
-
-If you enjoy my projects or find them helpful,
-
-⭐ Consider starring my repositories.
-
-It motivates me to continue building better open-source software.
 
 ---
 
@@ -396,55 +369,6 @@ It motivates me to continue building better open-source software.
 
 ---
 
-# 🏆 My Development Journey
-
-```text
-2024
-│
-├── Learned Python
-├── Built Django Projects
-├── Started MCA
-│
-2025
-│
-├── Learned Flask
-├── Built Machine Learning Projects
-├── Completed Oracle Certifications
-├── Deloitte Job Simulation
-│
-2026
-│
-├── Frappe Framework Certification
-├── Backend Internship
-├── Built Enterprise RAG Application
-├── FastAPI + React
-├── Gemini AI Integration
-├── ChromaDB
-├── PostgreSQL (Neon)
-├── Render Deployment
-├── Vercel Deployment
-└── Looking for Full-Time Opportunities 🚀
-```
-
----
-
-# 📈 2026 Learning Roadmap
-
-- ✅ Advanced FastAPI
-- ✅ Frappe ERP Development
-- ✅ ERPNext Customization
-- ✅ Advanced PostgreSQL
-- ✅ Redis
-- ✅ Celery
-- ✅ Docker
-- ✅ Kubernetes
-- ✅ AWS
-- ✅ System Design
-- ✅ Microservices
-- ✅ Scalable Backend Architecture
-
----
-
 # 🤝 Let's Build Something Great Together
 
 I'm always excited to connect with developers, recruiters, startups, and engineering teams.
@@ -476,6 +400,10 @@ I'd love to collaborate.
 ### 🤝 Let's grow together
 
 </div>
+
+---
+
+> **"Good software isn't just about writing code. It's about solving real-world problems with clean, scalable and maintainable solutions."**
 
 ---
 
