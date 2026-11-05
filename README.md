@@ -1,69 +1,125 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=280&text=ABUSUFIYAN&fontSize=74&fontColor=1F2937&animation=fadeIn&fontAlignY=40&desc=Python%20Backend%20Developer%20%7C%20FastAPI%20%7C%20Django%20%7C%20Frappe%20ERP&descAlignY=63&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=280&text=ABUSUFIYAN&fontSize=74&fontColor=1F2937&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20Intern%20%7C%20GenerativeAI%20%7C%20LLMs%20%7C%20RAG%20&descAlignY=63&descSize=18"/>
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&color=0A84FF&lines=Python+Backend+Developer+%F0%9F%90%8D;FastAPI+%7C+Django+%7C+Frappe+Developer+%F0%9F%9A%80;Building+AI-Powered+Business+Applications;REST+API+%7C+PostgreSQL+%7C+React;Open+to+Full-Time+Opportunities+%F0%9F%92%BC"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&color=2563EB&lines=AI+Engineer+Intern;Generative+AI+Enthusiast;Python+Developer;RAG+%26+LLM+Application+Developer;Exploring+AI+Agents+and+Applied+AI" alt="Typing animation" />
 </p>
 
 ---
 
-# 👋 Hello, I'm Abusufiyan
-
-I'm a Python Backend Developer passionate about building scalable web applications, AI-powered products, and enterprise software.
-
-Currently pursuing my MCA while continuously improving my backend engineering skills through real-world projects involving FastAPI, Django, Frappe ERP, PostgreSQL, ChromaDB, React, and Generative AI.
-
-I enjoy solving practical business problems using clean architecture, REST APIs, authentication systems, vector databases, and modern deployment workflows.
-
----
-
-# 🚀 About Me
+## About Me
 
 <img align="right" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-🎓 MCA Fresher
+I'm an **AI Engineer Intern** at **PipeTech AI Technologies**, based in Navi Mumbai, India. I completed my **MCA** (Chhatrapati Shivaji Maharaj University, Panvel, 2024 - 2026, SGPA 9.14) and I'm building my career in **Generative AI and applied AI engineering**.
 
-💼 Open to Full-Time Python Backend Developer Roles
+I'm interested in LLMs, AI agents, Retrieval-Augmented Generation (RAG), machine learning, and building practical AI applications with Python. I have also built full-stack projects with FastAPI, Flask, Django, and React.js.
 
-🐍 Strong interest in Backend Development & AI Applications
-
-⚡ Experience building complete full-stack applications
-
-🧠 Currently exploring Enterprise AI & RAG Systems
-
-🔐 Interested in Authentication, APIs & System Design
-
-📚 Learning scalable backend architecture every day
-
-🌎 Passionate about solving real business problems
-
-📫 Email: **abusufiyantechsak@gmail.com**
-
-<br clear="right"/>
+- Currently working with a team on AI-powered solutions for engineering workflows
+- Built a full-stack RAG document question-answering application
+- Learning and exploring AI agents, LLM applications, and applied machine learning
+- Looking for entry-level AI Engineer / Generative AI Engineer opportunities
 
 ---
 
-# 🌐 Connect With Me
+## Experience
 
-<p align="center">
+**AI Engineer Intern** - PipeTech AI Technologies Pvt. Ltd.
+*October 2026 - Present | Mahape, Navi Mumbai | On-site*
 
-<a href="mailto:abusufiyantechsak@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+- Working with a collaborative engineering team on AI-powered solutions for engineering workflows
+- Contributing to the development of AI agents for engineering-related use cases
+- Working with Python and LLM-based approaches, including information extraction from technical documents
+- Collaborating with team members to develop, test, and improve AI-powered solutions
 
-<a href="https://www.linkedin.com/in/abusufiyan-822b9827b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Python Developer Intern** - PY Digital Services Pvt. Ltd.
+*June 2026 - August 2026 | Remote*
 
-<a href="https://x.com/abusufiyan1902">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+- Developed a full-stack Laptop Service Center website using Python and Flask, with enquiry forms, server-side validation, PostgreSQL with SQLAlchemy ORM, and Brevo SMTP email notifications
+- Worked on a RAG-based Enterprise Knowledge Assistant using FastAPI, React, PostgreSQL, ChromaDB, and Google Gemini
+- Contributed the About, Services, Service Details, Doctors, and Testimonials pages of a Healthcare Clinic website using React.js, JavaScript, HTML, and CSS
 
+---
+## Technical Skills
+
+**Programming Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java_%28Basic_Knowledge%29-ED8B00?style=for-the-badge" alt="Java (basic knowledge)" />
+</p>
+
+**Generative AI and AI**
+
+<p>
+  <img src="https://img.shields.io/badge/Generative_AI-2563EB?style=for-the-badge" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge" alt="Large Language Models" />
+  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI_Agents-2563EB?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Embeddings-2563EB?style=for-the-badge" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/Semantic_Search-2563EB?style=for-the-badge" alt="Semantic Search" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-2563EB?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Document_Processing-2563EB?style=for-the-badge" alt="Document Processing" />
+  <img src="https://img.shields.io/badge/LLM_Question_Answering-2563EB?style=for-the-badge" alt="LLM Question Answering" />
+  <img src="https://img.shields.io/badge/Machine_Learning_Fundamentals-2563EB?style=for-the-badge" alt="Machine Learning Fundamentals" />
+  <img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini AI" />
+</p>
+
+**Backend Development**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" alt="SQLAlchemy" />
+</p>
+
+**Frontend Development**
+
+<p>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge" alt="ChromaDB" />
+</p>
+
+**Data Analysis and Visualization**
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C7CA8?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge" alt="Microsoft Excel" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logoColor=black" alt="Neon" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -80,125 +136,7 @@ I enjoy solving practical business problems using clean architecture, REST APIs,
 
 ---
 
-# 🛠 Tech Stack
-
-## 🚀 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css" height="55"/>
-
-</p>
-
----
-
-## ⚙ Backend Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask" height="55"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Frappe_Framework-0089FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQLAlchemy-E34F26?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🎨 Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,javascript" height="55"/>
-
-</p>
-
----
-
-## 🗄 Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="55"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/ChromaDB-7B61FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Neon_PostgreSQL-00E599?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🤖 Artificial Intelligence
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prompt_Engineering-7E57C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Semantic_Search-00ACC1?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-</p>
-
----
-
-## ☁ Deployment & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="55"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
-
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge"/>
-
-</p>
-
----
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=abusufiyan7518&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abusufiyan7518&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 📜 Certifications
+## Certifications
 
 | 🏆 Certification | Issuer |
 |-----------------|--------|
@@ -207,188 +145,22 @@ I enjoy solving practical business problems using clean architecture, REST APIs,
 | ☁ Microsoft Applied Skills – Deploy Cloud-Native Apps using Azure Container Apps | Microsoft |
 | 💼 Technology Job Simulation | Deloitte × Forage |
 | 🐍 Python & Data Science Training | QSpiders |
-| ⚙ Frappe Framework Certification | Frappe |
+
 
 ---
 
-# 💼 Experience
+## Let's Connect
 
-### Python Backend Development Intern
+<p align="center">
+  <a href="mailto:abusufiyantechsak@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/abusufiyan-822b9827b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/abusufiyan7518"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/abusufiyan1902"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
+</p>
 
-**PY Digital Services Pvt. Ltd.**
-
-- Built production-ready backend APIs using FastAPI
-- Implemented JWT Authentication & Authorization
-- Developed Retrieval-Augmented Generation (RAG) workflow
-- Integrated PostgreSQL with SQLAlchemy ORM
-- Worked with ChromaDB Vector Database
-- Connected Google Gemini AI APIs
-- Built responsive React frontend
-- Deployed production applications on Render & Vercel
-
----
-
-# 🚀 What I Build
-
-### 🐍 Python Applications
-
-- FastAPI APIs
-- Django Applications
-- Flask Applications
-
-### 🤖 AI Applications
-
-- RAG Systems
-- Semantic Search
-- AI Chat Applications
-- Gemini Integrations
-
-### 🏢 Business Software
-
-- ERP Applications
-- Admin Dashboards
-- CRM Modules
-- Authentication Systems
-
-### 🌐 Full Stack Applications
-
-- React Frontend
-- REST APIs
-- PostgreSQL
-- Responsive UI
-
----
-
-# 📚 Currently Learning
-
-- Advanced FastAPI
-- System Design
-- Docker
-- Kubernetes Basics
-- AWS Cloud
-- Redis
-- Celery
-- Microservices
-- Clean Architecture
-- Design Patterns
-
----
-
-# 📂 Featured Repositories
-
-| ⭐ Project | Description | Tech |
-|-----------|-------------|------|
-| 🤖 RAG Enterprise Knowledge Assistant | Enterprise AI assistant using RAG, ChromaDB & Gemini AI | FastAPI • React • PostgreSQL |
-| 🏨 HostelX | ERP-style hostel management platform | Django • SQLite |
-| 🔗 URL Shortener | URL shortener with QR Code & Analytics | Flask • Bootstrap |
-| 🗑 SmartBin | Smart garbage complaint management system | Django |
-| ❤️ Heart Disease Prediction | Machine Learning healthcare application | Scikit-Learn |
-| 🏠 House Price Prediction | Regression based ML project | Python |
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abusufiyan7518/abusufiyan7518/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="mailto:abusufiyantechsak@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abusufiyan-822b9827b/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/abusufiyan1902">
-<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💼 Open To Opportunities
-
-<div align="center">
-
-### I'm actively looking for
-
-🐍 Python Backend Developer
-
-⚡ FastAPI Developer
-
-🏢 Frappe / ERPNext Developer
-
-🌐 Django Developer
-
-🤖 AI Application Developer
-
-</div>
-
----
-
-# 🎯 Core Skills
-
-<div align="center">
-
-| Backend | Frontend | Database | AI | Tools |
-|---------|----------|----------|----|------|
-| FastAPI | React | PostgreSQL | Gemini AI | Git |
-| Django | HTML/CSS | MySQL | RAG | GitHub |
-| Flask | Bootstrap | SQLite | ChromaDB | VS Code |
-| Frappe | JavaScript | SQLAlchemy | Prompt Engineering | Postman |
-
-</div>
-
----
-
-# 🤝 Let's Build Something Great Together
-
-I'm always excited to connect with developers, recruiters, startups, and engineering teams.
-
-Whether it's:
-
-- Backend Development
-- ERP Applications
-- AI Applications
-- FastAPI Projects
-- Django Projects
-- Frappe ERP
-- REST APIs
-
-I'd love to collaborate.
-
----
-
-# ⭐ If you like my work...
-
-<div align="center">
-
-### ⭐ Star my repositories
-
-### 🍴 Fork interesting projects
-
-### 💬 Connect with me on LinkedIn
-
-### 🤝 Let's grow together
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4F46E5,100:2563EB&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:2563EB&height=100&section=footer" alt="" />
+</p>
 
 ---
 
@@ -396,6 +168,6 @@ I'd love to collaborate.
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!+%F0%9F%92%99;Always+Building.+Always+Learning.;See+you+in+the+next+project!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub!;Let's+Connect!+%F0%9F%92%99;Always+Building.+Always+Learning."/>
 
 </div>
